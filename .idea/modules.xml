@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex_01/ex_01.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex_01/ex_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex_02/ex_02.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex_02/ex_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex_03/ex_03.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex_03/ex_03.iml" />
@@ -44,6 +45,9 @@
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercicio_20/exercicio_20.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercicio_20/exercicio_20.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercicio_9/exercicio_9.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercicio_9/exercicio_9.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercio_03/exercio_03.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercio_03/exercio_03.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercicio_01/exercicio_01.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercicio_01/exercicio_01.iml" />
+>>>>>>> dd02f1268b9723dfa93c7bf81b28b53733b439d6
       <module fileurl="file://$PROJECT_DIR$/.idea/linguagemdeprogramacao.iml" filepath="$PROJECT_DIR$/.idea/linguagemdeprogramacao.iml" />
     </modules>
   </component>
